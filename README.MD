@@ -3,6 +3,7 @@
 A battlebot made from the SSP kit provided by Just Cuz Robotics, utilizes the vertical spinner modification.
 
 Kit: https://justcuzrobotics.com/products/ssp-robot-kit 
+
 Additional Modification: https://justcuzrobotics.com/products/vert-module-ssp-2
 
 
